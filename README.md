@@ -50,7 +50,7 @@ Outside academics, I lead design and community initiatives, blending creativity,
 
 - 📧 Email: **baralshreeya03@gmail.com**  
 - 💼 LinkedIn: [Shreeya Baral](#)  
-- 🖥️ GitHub: [YOUR_GITHUB_USERNAME](#)  
+- 🖥️ GitHub: [shiiu](#)  
 
 ---
 
