@@ -1,6 +1,6 @@
 <!-- Banner with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreeya+Baral;Aspiring+Data+Analyst+%7C+UX+Analyst;Engineer+%7C+Researcher+%7C+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shreeya;Aspiring+Data+Analyst+%7C+UX+Analyst;Engineer+%7C+Researcher+%7C+Designer" alt="Typing SVG" />
 </p>
 
 ---
