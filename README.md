@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,matlab,mysql,mongodb,react,nodejs,figma,vite,canva,excel" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,matlab,mysql,mongodb,react,nodejs,figma,vite" />
 </p>
 
 ---
