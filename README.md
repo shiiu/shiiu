@@ -32,21 +32,24 @@ Outside academics, I lead design and community initiatives, blending creativity,
 
 ## 📂 Projects  
 
-- **Classifying Military Vehicles from SAR Data** 🛰️  
+- **Vinyl**  
+  Web app that lets you search your favorite artists and instantly explore their albums.  
+
+- **Classifying Military Vehicles from SAR Data** 
   Python pipeline on the **MSTAR dataset** for radar imagery classification.  
 
-- **Financial & Operational Case Study of Food Plaza** 🍴  
+- **Financial & Operational Case Study of Food Plaza**  
   4-month Excel-based analysis → optimized menu, flagged low-sales days.  
 
-- **Image Denoising with Guided & Wiener Filters** 🖼️  
+- **Image Denoising with Guided & Wiener Filters**  
   Hybrid filter pipeline in Python preserving fine image details.  
 
-- **Task Manager (Self Project)** ✅  
+- **Task Manager (Self Project)** 
   MERN stack app (React.js, Node.js, Express.js, MongoDB, Atlas).  
 
 ---
 
-## 📫 How to Reach Me  
+## 📫 Reach Out ^^
 
 - 📧 Email: **baralshreeya03@gmail.com**  
 - 💼 LinkedIn: [Shreeya Baral](#)  
