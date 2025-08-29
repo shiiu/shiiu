@@ -55,5 +55,5 @@ Outside academics, I lead design and community initiatives, blending creativity,
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="300" alt="Data Animation"/>
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="500" alt="Data Animation"/>
 </p>
